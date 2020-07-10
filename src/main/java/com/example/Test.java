@@ -41,6 +41,10 @@ public class Test {
 
         System.out.println(cal.getTime());
 
+        System.out.println("*************************************");
+
+        System.out.println("this is a test!!!");
+
     }
 
 }
